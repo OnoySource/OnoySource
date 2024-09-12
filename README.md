@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onoysource&label=Profile%20views&color=0e75b6&style=flat" alt="onoysource" /> </p>
 
-- 🔭 I’m currently working on **not found**
 
 - 🌱 I’m currently learning **How to write Java programming code**
+
+-  🔭 I’m currently working on **not found**
 
 - 👯 I’m looking to collaborate on **not found**
 
@@ -13,7 +14,7 @@
 
 
 <h3 align="left">Programming Language:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onoysource&show_icons=true&locale=en&layout=compact" alt="onoysource" /></p>
 
