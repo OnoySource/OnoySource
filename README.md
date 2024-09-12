@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onoysource&label=Profile%20views&color=0e75b6&style=flat" alt="onoysource" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onoysource" alt="onoysource" /></a> </p>
+
 
 - 🌱 I’m currently learning **How to write Java programming code**
 
