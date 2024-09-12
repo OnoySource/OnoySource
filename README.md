@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm OnoySource</h1>
-<h3 align="center"></h3>
+<h3 align="center">wounds are art, and self-harm is ambition</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onoysource&label=Profile%20views&color=0e75b6&style=flat" alt="onoysource" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onoysource" alt="onoysource" /></a> </p>
+
+- 🌱 I’m currently learning **How to write Java programming code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onoysource&show_icons=true&locale=en&layout=compact" alt="onoysource" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onoysource&show_icons=true&locale=en" alt="onoysource" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onoysource&" alt="onoysource" /></p>
