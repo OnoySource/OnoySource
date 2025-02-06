@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **How to write Java programming code**
 
--  🔭 I’m currently working on **not found**
+-  🔭 I’m currently working on 
 
-- 👯 I’m looking to collaborate on **not found**
+- 👯 I’m looking to collaborate on 
 
-- 🤝 I’m looking for help with **not found**
+- 🤝 I’m looking for help with 
 
 
 <h3 align="left">Programming Languages:</h3>
